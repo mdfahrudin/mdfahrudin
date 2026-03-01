@@ -10,7 +10,7 @@ Building scalable enterprise systems, automation, and digital solutions.
 ## Professional Summary
 
 - Enterprise Application Developer
-- Government & LPSE System Specialist
+- Government & SPSE System Specialist
 - Automation & AI Integration
 - Web, Mobile, and Cloud Solutions
 - Focus: Scalability, Security, Reliability
@@ -41,7 +41,7 @@ Building scalable enterprise systems, automation, and digital solutions.
 
 ## Featured Projects
 
-### Enterprise ATK Management System
+### Enterprise API Management System
 Enterprise inventory and monitoring system
 
 Features:
