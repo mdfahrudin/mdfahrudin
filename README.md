@@ -10,7 +10,7 @@ Building scalable enterprise systems, automation, and digital solutions.
 ## Professional Summary
 
 - Enterprise Application Developer
-- Government & SPSE System Specialist
+- Government & SPSE/LPSE System Specialist
 - Automation & AI Integration
 - Web, Mobile, and Cloud Solutions
 - Focus: Scalability, Security, Reliability
@@ -49,7 +49,7 @@ Features:
 - Reporting dashboard
 - Multi-user system
 
-### LPSE Automation System
+### SPSE/LPSE Automation System
 Government procurement automation tools
 
 Features:
