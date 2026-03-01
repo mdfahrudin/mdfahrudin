@@ -1,84 +1,154 @@
-<h1 align="center">Muhamad Fahrudin</h1>
-<h3 align="center">IT Professional | Software Engineer | Enterprise System Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=3A6CF4&center=true&vCenter=true&lines=Government+IT+Engineer;Enterprise+Systems+Architect;Infrastructure+Security+Specialist;Secure+Enterprise+Application+Developer"/>
+</p>
+
+<h1 align="center">MUHAMAD FAHRUDIN</h1>
+
+<h3 align="center">
+Government IT Engineer • Enterprise Systems Architect • Infrastructure Security
+</h3>
 
 <p align="center">
-Building scalable enterprise systems, automation, and digital solutions.
+Designing, building, and securing mission-critical government and enterprise systems.
 </p>
 
 ---
 
-## Professional Summary
-
-- Enterprise Application Developer
-- Government & SPSE/LPSE System Specialist
-- Automation & AI Integration
-- Web, Mobile, and Cloud Solutions
-- Focus: Scalability, Security, Reliability
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mdfahrudin&color=blue&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/mdfahrudin?color=blue&style=flat-square"/>
+<img src="https://img.shields.io/github/stars/mdfahrudin?color=blue&style=flat-square"/>
+</p>
 
 ---
 
-## Tech Stack
+## Government IT Profile
 
-### Languages
+Enterprise-focused IT Engineer specializing in secure, scalable, and reliable government systems.
+
+Core specialization:
+
+• Enterprise Application Development  
+• Government Infrastructure Systems  
+• Secure Monitoring Systems  
+• Automation & Integration  
+• Infrastructure Protection  
+
+Operational focus:
+
+• Government digital infrastructure  
+• Enterprise system architecture  
+• Monitoring and automation systems  
+• Secure application deployment  
+
+---
+
+## Technical Capabilities
+
+### Enterprise Systems
+
+![Enterprise Systems](https://img.shields.io/badge/Enterprise-Systems-blue)
+![Government Systems](https://img.shields.io/badge/Government-Systems-blue)
+![Monitoring Systems](https://img.shields.io/badge/System-Monitoring-blue)
+![Automation](https://img.shields.io/badge/System-Automation-blue)
+
+### Programming
+
 ![Python](https://img.shields.io/badge/Python-Professional-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Professional-blue)
+![SQL](https://img.shields.io/badge/SQL-Professional-blue)
 
-### Frameworks
-![React](https://img.shields.io/badge/React-Expert-blue)
-![NodeJS](https://img.shields.io/badge/NodeJS-Expert-green)
-![Flutter](https://img.shields.io/badge/Flutter-Professional-blue)
+### Infrastructure
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-orange)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-Expert-red)
-![Docker](https://img.shields.io/badge/Docker-Professional-blue)
+![Linux](https://img.shields.io/badge/Linux-Enterprise-black)
+![Docker](https://img.shields.io/badge/Docker-Infrastructure-blue)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
 
 ---
 
-## Featured Projects
+## Enterprise & Government Projects
 
-### Enterprise API Management System
-Enterprise inventory and monitoring system
+### Enterprise Asset Management System
 
-Features:
-- Real-time monitoring
-- Reporting dashboard
-- Multi-user system
+Mission-critical system for asset monitoring and control
 
-### SPSE/LPSE Automation System
-Government procurement automation tools
+Capabilities:
 
-Features:
-- Tender monitoring
-- Notification automation
-- Data analytics
+• Real-time monitoring  
+• Audit logging  
+• Access control  
+• Enterprise reporting  
 
 ---
 
-## GitHub Statistics
+### Government Procurement Monitoring System
+
+Automation and monitoring system for procurement infrastructure
+
+Capabilities:
+
+• Tender monitoring  
+• Automated notifications  
+• Secure system access  
+• Operational analytics  
+
+---
+
+### Infrastructure Monitoring System
+
+Enterprise infrastructure monitoring platform
+
+Capabilities:
+
+• Real-time infrastructure monitoring  
+• Alert system  
+• System logging  
+• Analytics dashboard  
+
+---
+
+## Operational Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdfahrudin&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfahrudin&theme=tokyonight"/>
 </p>
 
 ---
 
-## Professional Contact
+## System Activity
 
-Email: your@email.com  
-LinkedIn: linkedin.com/in/yourprofile  
-Portfolio: yourwebsite.com
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdfahrudin&theme=tokyo-night"/>
+</p>
 
 ---
 
-## Mission
+## Mission Statement
 
-Building enterprise-grade software that delivers real business value.
+To design, secure, and maintain trusted government and enterprise IT infrastructure.
+
+---
+
+## Operational Scope
+
+Government Systems  
+Enterprise Applications  
+Infrastructure Monitoring  
+Cybersecurity Integration  
+Automation Systems  
+
+---
+
+## Location
+
+Indonesia
+
+---
+
+## Status
+
+Active • Operational • Enterprise Development
